@@ -1,0 +1,6 @@
+{
+  "name": "World Transport Overseas (WTO) - Logistics & Courier",
+  "description": "Fast, reliable & secure international shipping and worldwide cargo transport across 190+ countries. Real-time tracking, flight and ocean freight, booking, and 24/7 shipping support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
